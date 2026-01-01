@@ -1,5 +1,6 @@
-name: RDPon:
-  workflow_dispatch:
+name: RDP
+on:
+dispatch:
 
 jobs:
   secure-rdp:
